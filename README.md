@@ -34,12 +34,8 @@
 
 ### Em andamento
 
-- Engenharia de Software – Anhanguera (2º semestre, EAD)
-- Desenvolvimento de Sistemas – Proz Educação (1º semestre)
+- Engenharia de Software – Anhanguera (3º semestre, EAD)
 - Curso de Python – Udemy
-
-### Pausado
-
 - Curso de Linux (preparatório para certificação LPI) – Udemy
 - Curso de Redes – Udemy
 - Curso de Data Science – Udemy
